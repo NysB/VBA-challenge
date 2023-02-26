@@ -12,7 +12,9 @@ Attached to this reposity, you will find:
 
 ## Result
 Please see below a screenshot containing the results for task 1
+
 ![Screenshot Task 1](https://user-images.githubusercontent.com/123317735/221427949-10588b84-bc0c-4b9c-8cb3-19a22cbe1588.jpg)
 
 Please see below a screenshot containing the results for task2
+
 ![Screenshot Task 2](https://user-images.githubusercontent.com/123317735/221427989-661334bd-51af-42dd-9072-0480b0569886.jpg)
